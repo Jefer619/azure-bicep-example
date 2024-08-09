@@ -1,1 +1,1 @@
-# azure-sdk-csharp-example
+# azure-bicep-example
